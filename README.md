@@ -21,10 +21,16 @@
 ## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,html,css,figma,git,vscode,discord" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,tailwind,html,css,git,vscode,discord" />
+<h2>🎮 Game Stack</h2>
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1359118520515952642/1361552271342833826/minecraft_logo_icon_168974.png?ex=67ff2bdd&is=67fdda5d&hm=c5026a214a839ff5624a822f5768315c8fd170d6d45b1091d92a53c43b736b32&" alt="Minecraft" style="width: 50px; height: 50px;" />
+  <img src="https://cdn.discordapp.com/attachments/1359118520515952642/1361553097486368868/roblox_alt_macos_bigsur_icon_189774.png?ex=67ff2ca2&is=67fddb22&hm=9560904f7cb45f3bcec6f73384a5da53a1f91ec8046c8166900d05d469e61191&" alt="Roblox" style="width: 50px; height: 50px;" />
+  <img src="https://example.com/path_to_pubg_icon.png" alt="PUBG" style="width: 50px; height: 50px;" />
+  <img src="https://example.com/path_to_mobile_legends_icon.png" alt="Mobile Legends" style="width: 50px; height: 50px;" />
 </div>
 
----
+
 
 ## 📈 GitHub Stats
 
