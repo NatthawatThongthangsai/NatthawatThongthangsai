@@ -26,8 +26,7 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1359118520515952642/1361552271342833826/minecraft_logo_icon_168974.png?ex=67ff2bdd&is=67fdda5d&hm=c5026a214a839ff5624a822f5768315c8fd170d6d45b1091d92a53c43b736b32&" alt="Minecraft" style="width: 50px; height: 50px;" />
   <img src="https://cdn.discordapp.com/attachments/1359118520515952642/1361553097486368868/roblox_alt_macos_bigsur_icon_189774.png?ex=67ff2ca2&is=67fddb22&hm=9560904f7cb45f3bcec6f73384a5da53a1f91ec8046c8166900d05d469e61191&" alt="Roblox" style="width: 50px; height: 50px;" />
-  <img src="https://example.com/path_to_pubg_icon.png" alt="PUBG" style="width: 50px; height: 50px;" />
-  <img src="https://example.com/path_to_mobile_legends_icon.png" alt="Mobile Legends" style="width: 50px; height: 50px;" />
+  <img src="https://cdn.discordapp.com/attachments/1359118520515952642/1361553844668207215/8e0d462eef87f64eb590a5d9c848c0c1.png?ex=67ff2d55&is=67fddbd5&hm=b07c11cd8bfc5180a05b8841e865c68c8220abf13d654c5df43c595a784720b8&" alt="Mobile Legends" style="width: 50px; height: 50px;" />
 </div>
 
 
@@ -40,6 +39,9 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatthawatThongthangsai&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
 </div>
+## Favorite Songs 🎶
+
+https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC?si=41160e61af244721
 
 ---
 
