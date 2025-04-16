@@ -15,11 +15,9 @@
 - 👯 Love collaborating with teams and meeting devs who vibe the same way 😎
 - 💬 Feel free to message me! Whether it's about code or life ✨
 - 🎯 This year’s goal: **Create giveaway systems + build the website I dreamed of as a kid**
-
 ---
-
-## 🚀 Tech Stack
-
+<div align="center">
+<h2> 🚀 Tech Stack</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,tailwind,html,css,git,vscode,discord" />
 <h2>🎮 Game Stack</h2>
