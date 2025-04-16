@@ -44,7 +44,7 @@
 
 ## 🎶 Favorite Songs
 
-[Spotify Track - Let Her Go](https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC?si=41160e61af244721)
+[Spotify Track - My, Myself & I](https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC?si=UFDUV0xxRyu8p2dBQq6h5A)
 
 ---
 
