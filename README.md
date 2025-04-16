@@ -1,5 +1,5 @@
 <h1 align="center">
-  สวัสดีครับ 👋 ผมชื่อ Natthawat Thongthangsai!
+  Hello there 👋 I'm Natthawat Thongthangsai!
 </h1>
 
 <p align="center">
@@ -8,13 +8,13 @@
 
 ---
 
-## 💫 เกี่ยวกับผม
+## 💫 About Me
 
-- 🔭 ตอนนี้กำลังทำโปรเจกต์: **ระบบบอท Discord  + เว็บไซต์ UI**
-- 🌱 เรียนรู้เพิ่มเติมเกี่ยวกับ: `Next.js`, `TypeScript`, `Machine Learning`, และ `UI/UX`
-- 👯 ชอบทำงานร่วมกับทีม และหาเพื่อน Dev ที่ vibe ตรงกัน 😎
-- 💬 ทักมาคุยได้เลยน้าา ทั้งเรื่องโค้ดหรือชีวิต ✨
-- 🎯 เป้าหมายปีนี้: **ทําระบบแจก + พัฒนาเว็บที่อยากทําในวัยเด็ก**
+- 🔭 Currently working on: **Discord Bot System + UI Website**
+- 🌱 Exploring more about: `Next.js`, `TypeScript`, `Machine Learning`, and `UI/UX`
+- 👯 Love collaborating with teams and meeting devs who vibe the same way 😎
+- 💬 Feel free to message me! Whether it's about code or life ✨
+- 🎯 This year’s goal: **Create giveaway systems + build the website I dreamed of as a kid**
 
 ---
 
@@ -29,7 +29,7 @@
   <img src="https://cdn.discordapp.com/attachments/1359118520515952642/1361553844668207215/8e0d462eef87f64eb590a5d9c848c0c1.png?ex=67ff2d55&is=67fddbd5&hm=b07c11cd8bfc5180a05b8841e865c68c8220abf13d654c5df43c595a784720b8&" alt="Mobile Legends" style="width: 50px; height: 50px;" />
 </div>
 
-
+---
 
 ## 📈 GitHub Stats
 
@@ -39,34 +39,36 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatthawatThongthangsai&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
 </div>
-## Favorite Songs 🎶
-
-https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC?si=41160e61af244721
 
 ---
 
-## 🌐 ช่องทางติดต่อ
+## 🎶 Favorite Songs
 
-| ช่องทาง | ลิงก์ |
-|---------|-------|
+[Spotify Track - Let Her Go](https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC?si=41160e61af244721)
+
+---
+
+## 🌐 Contact Me
+
+| Platform | Link |
+|----------|------|
 | 📧 Email | `aungpaovortex@gmail.com` |
 | 💬 Discord | `natthawat999` |
-👍 Facebook | [Natthawat Thongthangsai](https://web.facebook.com/profile.php?id=61573497462936) |
+| 👍 Facebook | [Natthawat Thongthangsai](https://web.facebook.com/profile.php?id=61573497462936) |
 | 🌍 Website | Coming Soon... |
 | 🧠 Personality | INFP |
 
-
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun Facts
 
-- 🎨 ชอบทำ UI ที่ดูสะอาดตา มินิมอล และมีลูกเล่น ✨
-- 🎮 ชอบเล่นเกม + ฟังเพลงเวลาโค้ด
-- 🌌 ทำงานตอนดึก แล้วนอนตอนเช้า (Night Owl Gang 🌙)
+- 🎨 Love crafting clean, minimal, and interactive UIs ✨  
+- 🎮 Game + music = coding boost  
+- 🌌 Night owl — work at night, sleep in the morning (Night Owl Gang 🌙)
 
 ---
 
 <p align="center">
-  ขอบคุณที่แวะมาดูโปรไฟล์นะครับ 🫶 <br/>
-  ถ้าชอบก็ฝาก ⭐ repo หรือ follow เราไว้ด้วยน้าา 🙌
+  Thanks for stopping by my profile 🫶 <br/>
+  If you like what you see, feel free to ⭐ my repo or give me a follow 🙌
 </p>
