@@ -19,7 +19,7 @@
 <div align="center">
 <h2> 🚀 Tech Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,tailwind,html,css,git,vscode,discord" />
+  <img src="https://skillicons.dev/icons?i=js,py,nodejs,nextjs,tailwind,html,css,git,vscode,discord" />
 <h2>🎮 Game Stack</h2>
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1359118520515952642/1361552271342833826/minecraft_logo_icon_168974.png?ex=67ff2bdd&is=67fdda5d&hm=c5026a214a839ff5624a822f5768315c8fd170d6d45b1091d92a53c43b736b32&" alt="Minecraft" style="width: 50px; height: 50px;" />
