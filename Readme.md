@@ -42,7 +42,7 @@
 
 ## 🎶 Favorite Songs
 
-[Spotify Track - My, Myself & I](https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC?si=UFDUV0xxRyu8p2dBQq6h5A)
+[Spotify Track - Paolo playlist I](https://open.spotify.com/playlist/0717vr3u0BwZqnKJ3R9gUF?si=WdIcynozQX27Km9hIhQL3w)
 
 ---
 
