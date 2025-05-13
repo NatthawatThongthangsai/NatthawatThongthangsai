@@ -53,7 +53,7 @@
 | 📧 Email | `aungpaovortex@gmail.com` |
 | 💬 Discord | `natthawat999` |
 | 👍 Facebook | [Natthawat Thongthangsai](https://web.facebook.com/profile.php?id=61573497462936) |
-| 🌍 Website | Coming Soon... |
+| 🌍 Website | [Paolo profile] (https://paolonextweb.vercel.app/) |
 | 🧠 Personality | INFP |
 
 ---
